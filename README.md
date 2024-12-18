@@ -1,3 +1,6 @@
+# Description
+https://stackoverflow.com/questions/78893074/integrate-k8s-secret-live-reload-with-spring-boot-3-and-spring-cloud-k8s-config
+
 # test-live-secrets-k8s
 Repository to test the integration between spring-boot:3 and spring-cloud-starter-kubernetes-client-config
 
